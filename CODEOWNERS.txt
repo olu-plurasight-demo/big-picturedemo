@@ -1,7 +1,7 @@
 # In this example, any change in this repo 
-# will require approval from @vriesmarcel
-* @vriesmarcel
+# will require approval from @olumide-eng
+* @olumide-eng
 
 # Any change inside the `/Documents` directory
 # will require approval from anyone in the organizational team docsteam
-/Documents @fluentbytes/docsteam
+/Documents @olu-pluralsight-demo
